@@ -1,0 +1,14 @@
+{
+  "name": "ansi_up",
+  "homepage": "https://github.com/drudru/ansi_up",
+  "version": "5.0.1",
+  "_release": "5.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v5.0.1",
+    "commit": "aaec94da751d56f7011f6ca169a1aa22b92a3314"
+  },
+  "_source": "https://github.com/drudru/ansi_up.git",
+  "_target": "^5.0.1",
+  "_originalSource": "ansi_up"
+}
